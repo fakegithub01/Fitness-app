@@ -1,3 +1,4 @@
+//  HomePage.jsx
 import React, { useState } from 'react';
 import GymSection from './GymSection';
 import HomeExercises from './HomeExercises';
